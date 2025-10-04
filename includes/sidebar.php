@@ -8,7 +8,7 @@
                             </a>
 
                             <div class="sb-sidenav-menu-heading">Systems</div>
-                            <a class="nav-link" href="charts.html">
+                            <a class="nav-link" href="add_user.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                                 Add User
                             </a>
