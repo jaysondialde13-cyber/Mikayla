@@ -2,7 +2,7 @@
                     <div class="sb-sidenav-menu">
                         <div class="nav">
                             <div class="sb-sidenav-menu-heading">Core</div>
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="dashboard.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Dashboard
                             </a>
@@ -12,7 +12,7 @@
                                 <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                                 Add User
                             </a>
-                            <a class="nav-link" href="tables.html">
+                            <a class="nav-link" href="user_list.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                                 User List 
                             </a>
